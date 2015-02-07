@@ -1,0 +1,44 @@
+body {
+  font-family: verdana, sans-serif; 
+  color: #666;
+}
+
+.top {
+  margin-top: 25px;
+}
+
+img {
+  margin-top: 20px;
+}
+
+header {
+  color:  #f07c17;
+}
+
+h1 {
+  font-size: 350%;
+  color: #666;
+}
+
+h2 {
+  font: 170% bold;
+  padding-bottom: 20px;
+}
+
+article p {
+  font-size: 115%;
+  line-height: 200%;
+}
+
+section ul {
+  font-size: 115%;
+  line-height: 200%;
+}
+
+section {
+  box-sizing: content-box;
+  border: solid #ccc 1px;
+  margin-top: 28px;
+  height: 100%;
+  padding: 10px 0px 29px 30px;
+}
